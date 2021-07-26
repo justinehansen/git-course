@@ -1,2 +1,2 @@
-"I'm Justine"
+I'm Justine and I can use Git and GitHub.
 
